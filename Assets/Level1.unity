@@ -550,6 +550,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movement: {fileID: 385620260}
+  explosion: {fileID: 5091157794039609425, guid: 7e339847fbff5d64cb83ce2451f4a971,
+    type: 3}
 --- !u!1001 &404847672
 PrefabInstance:
   m_ObjectHideFlags: 0
